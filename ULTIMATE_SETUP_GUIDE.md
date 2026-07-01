@@ -303,6 +303,10 @@ The vault at `{workspace}/ObsidianVault/` is organized into skill collections. S
 | `cinematic-ui/` | https://github.com/search?q=cinematic+ui+claude+skill |
 | `cineView/` | https://github.com/search?q=cineview+3d+video |
 | `creativly.ai-brand-video-remotion/` | https://github.com/search?q=creativly+ai+brand+video+remotion |
+| `anthropics-skills/` | https://github.com/anthropics/skills |
+| `designer-skills/` | https://github.com/owl-listener/designer-skills |
+| `impeccable/` | https://github.com/pbakaus/impeccable |
+| `taste-skill/` | https://github.com/leonxlnx/taste-skill |
 | `design-psychology-skill/` | https://github.com/search?q=design+psychology+claude+skill |
 | `design.md-main/` | https://github.com/search?q=design+md+main |
 | `gentlerain.ai/` | https://github.com/search?q=gentlerain+ai+skills |
@@ -338,6 +342,7 @@ skills-library/
 │   ├── product/                             # https://github.com/search?q=product+image+prompts+ai
 │   └── prompt-templates/                    # https://github.com/search?q=ai+prompt+templates
 ├── prompt-engineering/
+│   ├── awesome-nano-banana-pro-prompts/     # https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts
 │   ├── prompt-engineering-guide/            # https://github.com/search?q=prompt+engineering+guide
 │   └── visual-realism-cookbook/             # https://github.com/search?q=visual+realism+cookbook+prompts
 ├── psychology-conversion/                   # https://github.com/search?q=psychology+conversion+claude
@@ -352,7 +357,13 @@ skills-library/
 │   ├── anything-llm/                        # https://github.com/Mintplex-Labs/anything-llm
 │   ├── best-aeo-skill/                      # https://github.com/search?q=aeo+answer+engine+optimization+skill
 │   ├── claude-mem/                          # https://github.com/search?q=claude+memory+system+skill
+│   ├── firecrawl/                           # https://github.com/firecrawl/firecrawl
+│   ├── google-maps-scraper/                 # https://github.com/gosom/google-maps-scraper
+│   ├── google-maps-scraper-kit/             # https://github.com/Mahanaicoach/google-maps-scraper-kit
+│   ├── google-maps-scrapper/                # https://github.com/zohaibbashir/Google-Maps-Scrapper
+│   ├── maxun/                               # https://github.com/getmaxun/maxun
 │   ├── oh-my-openagent/                     # https://github.com/search?q=oh+my+openagent
+│   ├── playwright-mcp/                      # https://github.com/microsoft/playwright-mcp
 │   ├── ruflo/                               # https://github.com/ruflo/ruflo
 │   │   └── plugins/ 23 plugins (ddd, docs, federation, goals,
 │   │       graph-intelligence, iot, jujutsu, knowledge-graph,
@@ -360,6 +371,7 @@ skills-library/
 │   │       neural-trader, observability, plugin-creator,
 │   │       rag-memory, ruvector, ruvllm, rvf, security-audit,
 │   │       sparc, swarm, testgen, workflows)
+│   ├── scrapling/                           # https://github.com/D4Vinci/Scrapling
 │   └── skillspector/                        # https://github.com/search?q=skillspector+security
 ├── ux-psychology/
 │   └── design-psychology/                   # https://github.com/search?q=design+psychology+ux+skill
@@ -371,21 +383,32 @@ skills-library/
 │   ├── brand-story/                         # https://github.com/search?q=brand+storytelling+video+skill
 │   ├── brand-video-remotion/                # https://github.com/search?q=brand+video+remotion+skill
 │   ├── cinematic/                           # https://github.com/search?q=cinematic+video+generation+skill
+│   ├── hyperframes/                         # https://github.com/heygen-com/hyperframes
 │   ├── manim-animation/                     # https://github.com/search?q=manim+animation+skill
+│   ├── motion-canvas/                       # https://github.com/motion-canvas/motion-canvas
 │   ├── motion-design/                       # https://github.com/search?q=motion+design+skill+claude
+│   ├── remotion/                            # https://github.com/remotion-dev/remotion
+│   ├── remotion-superpowers/                # https://github.com/dojocodinglabs/remotion-superpowers
 │   ├── remotion-transitions/                # https://github.com/search?q=remotion+transitions+skill
 │   ├── seedance2-en/                        # https://github.com/life-hacker/seedance2-skill
 │   └── storyboard/                          # https://github.com/search?q=video+storyboard+skill
 ├── web-animation/
+│   ├── animate-css/                         # https://github.com/animate-css/animate.css
 │   ├── gsap/                                # https://github.com/search?q=gsap+animation+claude+skill
+│   ├── gsap-official/                       # https://github.com/greensock/GSAP
+│   ├── magicui/                             # https://github.com/magicuidesign/magicui
+│   ├── motion/                              # https://github.com/motiondivision/motion
 │   ├── scroll/                              # https://github.com/search?q=scroll+animation+skill
+│   ├── scrollreveal/                        # https://github.com/jlmakes/scrollreveal
 │   └── threejs/                             # https://github.com/search?q=threejs+claude+skill
 └── web-design/
     ├── aurelis-reference/                   # https://github.com/search?q=aurelis+design+reference
     ├── awwwards-ui-skill/                   # https://github.com/search?q=awwwards+ui+claude+skill
     ├── cinematic-ui/                        # https://github.com/search?q=cinematic+ui+claude+skill
+    ├── design-motion-principles/            # https://github.com/kylezantos/design-motion-principles
     ├── gentlerain-clone/                    # https://github.com/search?q=gentlerain+clone+skill
     ├── lenis-gsap-scroll/                   # https://github.com/search?q=lenis+gsap+scroll+skill
+    ├── motion-design-skill/                 # https://github.com/lottiefiles/motion-design-skill
     ├── scrolling-site/                      # https://github.com/search?q=scrolling+site+skill
     ├── ui-ux-gold-standard/                 # https://github.com/search?q=ui+ux+gold+standard+skill
     └── web-designer/                        # https://github.com/search?q=web+designer+claude+skill
@@ -469,6 +492,35 @@ Copy-Item -Recurse "{workspace}/ObsidianVault/skills-library/tools" "{hermes-dat
 | `mcp-server-linkedin` | `pip install mcp-server-linkedin` | LinkedIn posts |
 | `mcporter` | `npm install -g mcporter` | MCP bridge |
 | `fastmcp` | `pip install fastmcp` | Fast MCP framework |
+| `playwright-mcp` | `pip install playwright-mcp` | Browser automation & scraping |
+
+### 12.5 SkillSpector — Security Scanner for Skills
+
+SkillSpector scans AI agent skills for vulnerabilities, malicious patterns, and security risks.
+
+```powershell
+pip install skillspector
+# Requires Python >=3.12
+```
+
+**Usage:**
+```powershell
+# Scan a single skill
+skillspector scan "{workspace}/ObsidianVault/taste-skill" --no-llm
+
+# Scan full vault recursively
+skillspector scan "{workspace}/ObsidianVault" --recursive --no-llm
+
+# Generate HTML report
+skillspector scan "{workspace}/ObsidianVault/taste-skill" --output report.html
+```
+
+**After every new skill install, run:**
+```powershell
+skillspector scan "{workspace}/ObsidianVault" --recursive --no-llm --output "{workspace}/skillspector-report.md"
+```
+
+**Reference:** Local source at `{workspace}/ObsidianVault/skills-library/tools/skillspector/` | GitHub: https://github.com/search?q=skillspector+security
 
 ---
 
@@ -562,8 +614,13 @@ git status
 git remote -v
 git log --oneline -3
 
+# SkillSpector (security scan)
+skillspector --help
+
 # Vault structure
 Test-Path "{workspace}/ObsidianVault/skills-library" -PathType Container
+Test-Path "{workspace}/ObsidianVault/taste-skill" -PathType Container
+Test-Path "{workspace}/ObsidianVault/anthropics-skills" -PathType Container
 Get-ChildItem "{workspace}/ObsidianVault" -Directory | Measure-Object
 ```
 
@@ -617,21 +674,41 @@ STEP 5 — Install Python Packages
 - pip install agent-reach
 - pip install linkedin-scraper-mcp mcp-server-linkedin fastmcp scrapling
 - pip install bili-cli yt-dlp
+- pip install skillspector
 
 STEP 6 — Clone the Repo
 git clone https://github.com/Bakkarranna/synaptix-os.git {workspace}
 cd {workspace}
 
 STEP 7 — Rebuild the Obsidian Vault
-The vault is NOT in GitHub (too large). Clone each skill from its original repo:
-- For each skill in the "Synaptix OS Ultimate Setup Guide" section 10, git clone its GitHub URL into {workspace}/ObsidianVault/{folder}/
-- If a repo can't be found, search GitHub using: "gh search repos {skill-name} --limit 5" and clone the best match
-- Then clone the skills-library:
-  - git clone https://github.com/coreyhaines31/marketingskills.git {workspace}/ObsidianVault/skills-library/references/marketing-skills-os
-  - git clone https://github.com/ruflo/ruflo.git {workspace}/ObsidianVault/skills-library/tools/ruflo
-  - git clone https://github.com/Mintplex-Labs/anything-llm.git {workspace}/ObsidianVault/skills-library/tools/anything-llm
-  - Search and clone the rest (skillspector, claude-mem, oh-my-openagent, etc.)
-- For top-level skills (cinematic-ui, higgsfield-*, seedance-*, etc.), search and clone each one
+The vault is NOT in GitHub (too large). Clone from original repos:
+- git clone https://github.com/leonxlnx/taste-skill.git {workspace}/ObsidianVault/taste-skill
+- git clone https://github.com/anthropics/skills.git {workspace}/ObsidianVault/anthropics-skills
+- git clone https://github.com/pbakaus/impeccable.git {workspace}/ObsidianVault/impeccable
+- git clone https://github.com/owl-listener/designer-skills.git {workspace}/ObsidianVault/designer-skills
+- git clone https://github.com/coreyhaines31/marketingskills.git {workspace}/ObsidianVault/skills-library/references/marketing-skills-os
+- git clone https://github.com/ruflo/ruflo.git {workspace}/ObsidianVault/skills-library/tools/ruflo
+- git clone https://github.com/Mintplex-Labs/anything-llm.git {workspace}/ObsidianVault/skills-library/tools/anything-llm
+- git clone https://github.com/microsoft/playwright-mcp.git {workspace}/ObsidianVault/skills-library/tools/playwright-mcp
+- git clone https://github.com/firecrawl/firecrawl.git {workspace}/ObsidianVault/skills-library/tools/firecrawl
+- git clone https://github.com/D4Vinci/Scrapling.git {workspace}/ObsidianVault/skills-library/tools/scrapling
+- git clone https://github.com/getmaxun/maxun.git {workspace}/ObsidianVault/skills-library/tools/maxun
+- git clone https://github.com/zohaibbashir/Google-Maps-Scrapper.git {workspace}/ObsidianVault/skills-library/tools/google-maps-scrapper
+- git clone https://github.com/Mahanaicoach/google-maps-scraper-kit.git {workspace}/ObsidianVault/skills-library/tools/google-maps-scraper-kit
+- git clone https://github.com/gosom/google-maps-scraper.git {workspace}/ObsidianVault/skills-library/tools/google-maps-scraper
+- git clone https://github.com/remotion-dev/remotion.git --depth 1 {workspace}/ObsidianVault/skills-library/video-generation/remotion
+- git clone https://github.com/dojocodinglabs/remotion-superpowers.git {workspace}/ObsidianVault/skills-library/video-generation/remotion-superpowers
+- git clone https://github.com/heygen-com/hyperframes.git {workspace}/ObsidianVault/skills-library/video-generation/hyperframes
+- git clone https://github.com/motion-canvas/motion-canvas.git {workspace}/ObsidianVault/skills-library/video-generation/motion-canvas
+- git clone https://github.com/motiondivision/motion.git {workspace}/ObsidianVault/skills-library/web-animation/motion
+- git clone https://github.com/greensock/GSAP.git {workspace}/ObsidianVault/skills-library/web-animation/gsap-official
+- git clone https://github.com/jlmakes/scrollreveal.git {workspace}/ObsidianVault/skills-library/web-animation/scrollreveal
+- git clone https://github.com/animate-css/animate.css.git {workspace}/ObsidianVault/skills-library/web-animation/animate-css
+- git clone https://github.com/magicuidesign/magicui.git {workspace}/ObsidianVault/skills-library/web-animation/magicui
+- git clone https://github.com/kylezantos/design-motion-principles.git {workspace}/ObsidianVault/skills-library/web-design/design-motion-principles
+- git clone https://github.com/lottiefiles/motion-design-skill.git {workspace}/ObsidianVault/skills-library/web-design/motion-design-skill
+- git clone https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts.git {workspace}/ObsidianVault/skills-library/prompt-engineering/awesome-nano-banana-pro-prompts
+- For remaining skills (cinematic-ui, higgsfield-*, seedance-*, awwwards-ui, etc.), search GitHub using "gh search repos {name} --limit 5" and clone the best match into {workspace}/ObsidianVault/{folder}/
 
 STEP 8 — Symlink Skills into Agentic Tools
 - Create {workspace}/.opencode/ directory
@@ -656,8 +733,11 @@ STEP 11 — Verify Everything
 - opencli --version
 - agent-reach doctor --json
 - twitter search "test" --limit 1
+- skillspector --help
 - git remote -v && git log --oneline -3
 - Confirm ObsidianVault/skills-library exists with content
+- Confirm taste-skill, anthropics-skills, impeccable, designer-skills exist
+- Run: skillspector scan {workspace}/ObsidianVault/taste-skill --no-llm (verify CRITICAL score 90/100)
 
 STEP 12 — Document in README
 After setup, create {workspace}/README.md listing every installed:
